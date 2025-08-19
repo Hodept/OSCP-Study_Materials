@@ -25,4 +25,34 @@ Lessons Learned/Remediation
       
       1. Whois
       
-      2. 
+      2. Google Hacking / LinkedIn searching etc.
+         
+         1. www.Dorksearch.com 
+         
+         2. `site:megacorpone.com`
+         
+         3. `site:megacorpone.com filetype:txt`
+      
+      3. NetCraft
+         
+         1. Detailed information about the site you are targeting. 
+      
+      4. Open-Source Code Repos
+         
+         1. Github / Github GIST
+            
+            1. Opensource tools that will search for usernames and passwords
+               
+               1. Gitrob
+               
+               2. Gitleaks
+         
+         2. GitLab
+         
+         3. SourceForge
+      
+      5. Shodan
+         
+         1. 
+            
+            
